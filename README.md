@@ -3,3 +3,4 @@ To evaluate the properties of the standard cells used in the design of the pipel
 
 Inverter Spectre:
 
+
